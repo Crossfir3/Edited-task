@@ -12,7 +12,7 @@ Run `npm install` to get all neccesary node modules.
 
 ## Installing the webdriver modules
 
-Run `npm run webdriver-update` to prepare the webdriver.
+Run `npm run webdriver-update` to prepare the webdriver if needed. This will require webdriver-manager to be installed.
 
 ## Running end-to-end tests
 
